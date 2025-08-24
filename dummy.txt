@@ -1,0 +1,3 @@
+Hello from a safe demo.
+This repository exists to show how `.patch` URLs work for PRs on GitHub.
+No harmful content, just normal text lines.
